@@ -7,6 +7,6 @@
 ## Contents
 Section | Title | Status
 --- | --- |  ---
-Introduction to PyTorch Tensors | [Tensors Basics](./1.Tensor%20Basics.ipynb) |  Done
+Introduction to PyTorch Tensors | [Tensor Basics](./1.Tensor%20Basics.ipynb) |  Done
 Automatic differentiation package  | [ Autograd ](./2.Autograd.ipynb) | Done
 
