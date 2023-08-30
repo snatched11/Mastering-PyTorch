@@ -7,6 +7,6 @@
 ## Contents
 Section | Title | Status
 --- | --- |  ---
-Introduction to PyTorch Tensors | [Titanic Survival Exploration](./1.Tensor%20Basics.ipynb) | Tensors Basics | Done
-Automatic differentiation package  | [Predicting Boston Housing Prices](./2.Autograd.ipynb) | Autograd | Done
+Introduction to PyTorch Tensors | [Tensors Basics](./1.Tensor%20Basics.ipynb) |  Done
+Automatic differentiation package  | [ Autograd ](./2.Autograd.ipynb) | Done
 
