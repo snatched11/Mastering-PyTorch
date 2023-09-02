@@ -1,8 +1,8 @@
-# Mastering-Pytorch
+# Mastering-PyTorch
 
 ## About
-- Mastering Pytorch is a repository showcasing examples of using PyTorch. 
-- Pytorch models from scratch to help me master the underlying concepts.
+- Mastering PyTorch is a repository showcasing examples of using PyTorch. 
+- PyTorch models from scratch to help me master the underlying concepts.
 
 ## Contents
 Section | Title | Status
