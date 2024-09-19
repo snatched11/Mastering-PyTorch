@@ -12,4 +12,6 @@ PyTorch Basics | [Autograd In PyTorch](https://github.com/snatched11/Mastering-P
 PyTorch Basics | [Backpropagation In PyTorch](https://github.com/snatched11/Mastering-PyTorch/blob/master/Backpropagation.ipynb) |  Done
 PyTorch Basics | [Loss and opitimizer In PyTorch](https://github.com/snatched11/Mastering-PyTorch/blob/master/loss%20and%20optimizer.ipynb) |  Done
 PyTorch ML | [Linear regression](https://github.com/snatched11/Mastering-PyTorch/blob/master/Linear%20regression.ipynb) |  Done
+PyTorch ML | [Logistic regression](https://github.com/snatched11/Mastering-PyTorch/blob/master/Logistic%20regression.ipynb) |  Done
+
 
